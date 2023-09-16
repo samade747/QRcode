@@ -14,7 +14,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    background: #fff;
+    background: #c41c3e;
     border-radius: 15px;
  }
  .container p{
@@ -50,7 +50,7 @@
     margin:20px 0 ;
  }
  .container button:hover{
-   transform: scale(1.01 ,1.01);
+   transform: scale(1.08 ,1.01);
  }
 
 
@@ -74,10 +74,10 @@
 
  }
 
- .error{
+ /* .error{
     animation: shake 0.1s linear 10;
- }
- @keyframes shake{
+ } */
+ /* @keyframes shake{
     0%{
         transform: translateX(0);
     }
@@ -88,9 +88,9 @@
         transform: translateX(0);
     }
     75%{   
-        transform: translateX(3px);
+        transform: translateX(5px);
     }
     100%{
         transform: translateX(0);
     }
- }
+ } */
