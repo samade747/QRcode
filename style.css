@@ -7,15 +7,17 @@
  body{
     background: #000000;
  }
+ 
  .container{
-    width: 400px;
+    width: 800px;
+    
     padding: 25px 35px;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    background: #c41c3e;
-    border-radius: 15px;
+    background: #fcfcfc;
+    border-radius: 50px;
  }
  .container p{
     font-weight: 650;
@@ -31,7 +33,7 @@
     outline: 0;
     padding: 10px;
     margin: 10px 0 15px;
-    border-radius: 8px;
+    border-radius: 30px;
  }
  .container button{
 
@@ -94,3 +96,5 @@
         transform: translateX(0);
     }
  } */
+
+ 
